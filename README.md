@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+### Hi there! 👋 I'm web developer using Java and Oracle. ✨
+
+### I can speak Korean, English, and Japanese. 💕
+### I like traveling all over the world. 🛫
 
 <!--
 **wooni0909/wooni0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### 🦾Skills
+### Languages
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Android&logoColor=white"/>
+
+### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Android&logoColor=white"/>
